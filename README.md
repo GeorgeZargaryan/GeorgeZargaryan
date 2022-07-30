@@ -1,4 +1,5 @@
-- 👋 Hei, I’m GeorgeZargaryan.
+# 🔥 Heiii 🔥
+- 👋 I’m GeorgeZargaryan.
 - 👀 I’m interested in Programming, WebDevelopment and Java.
 - 🎃 I’m currently learning C#.
 - 📫 You can reach me by any social network like IG, Tweeter, Telegram E.T.C...
