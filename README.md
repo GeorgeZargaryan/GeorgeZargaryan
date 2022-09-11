@@ -1,7 +1,7 @@
 # 🔥 Heiii 🔥
 - 👋 I’m George
 .
-- 👀 I’m interested in Programming, WebDevelopment and Java.
+- 👀 Currently I’m interested in WebDevelopment.
 - 🎃 I’m currently learning C#.
 - 📫 You can reach me by any social network like IG, Tweeter, Telegram E.T.C...
 - 💫 IG : @georgeishotafs
