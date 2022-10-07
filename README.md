@@ -7,7 +7,7 @@
 - 💫 IG : @georgeishotafs
 - 🦋 Twitter : @ZargaryanGeorge
 
--  HackerRank: hackerrank.com/georgezargaryan7 
+-  HackerRank: www.hackerrank.com/georgezargaryan7 
 
 <!---
 GeorgeZargaryan/GeorgeZargaryan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
