@@ -1,6 +1,5 @@
-# 🔥 Heiii 🔥
 # 💫 About Me:
-👀 Currently I’m interested in WebDevelopment.<br>🎃 I’m currently learning C#.<br>📫 You can reach me by any social network like IG, Twitter, Telegram E.T.C...<br>💫 IG: @georgeishotafs<br>🦋 Twitter: @ZargaryanGeorge<br>💻 HackerRank: www.hackerrank.com/georgezargaryan7
+👀 Currently I’m interested in WebDevelopment.<br>🎃 I’m currently learning C#.<br>📫 You can reach me by any social network like IG, Twitter, Telegram E.T.C...<br>💻 HackerRank: www.hackerrank.com/georgezargaryan7
 
 
 ## 🌐 Socials:
@@ -20,7 +19,6 @@
 [![](https://visitcount.itsvg.in/api?id=GeorgeZargaryan&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 💻 HackerRank: www.hackerrank.com/georgezargaryan7 
 
 <!---
 GeorgeZargaryan/GeorgeZargaryan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
