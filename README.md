@@ -1,5 +1,5 @@
 # 💫 About Me:
-👀 Currently I’m working on Online learning project.<br>🎃 I’m currently learning C# / ASP.NET.
+👀 Currently I’m working on Online Learning School project.<br>🎃 I’m currently learning C# / ASP.NET.
 
 
 ## 🌐 Socials:
