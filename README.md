@@ -6,7 +6,6 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/TheyCallMeHotAsf#5920)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/georgeishotasf) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20838137)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ZargaryanGeorge) 
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?&logo=HackerRank&logoColor=white)](https://hackerrank.com/georgezargaryan7)
 
 # 💻 Tech Stack:
