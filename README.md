@@ -10,7 +10,7 @@ I'm a passionate C# and ASP.NET developer currently working on my diploma projec
 
 ## 💼 Skills
 
-- 💻 **Languages:** C#, ASP.NET, .NET
+- 💻 **Languages:** C#, ASP.NET, .NET, PHP
 - 🌐 **Web Development:** HTML, CSS, JavaScript
 - 🗄️ **Databases:** SQL Server, MongoDB, MySQL
 - 🔧 **Tools:** Visual Studio Code, Git
@@ -24,7 +24,6 @@ I'm a passionate C# and ASP.NET developer currently working on my diploma projec
 
 # 💻 Tech Stack
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/en/)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/)
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/en-us/)
