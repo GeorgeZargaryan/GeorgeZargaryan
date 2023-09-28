@@ -12,7 +12,7 @@ I'm a passionate C# and ASP.NET developer currently working on my diploma projec
 
 - 💻 **Languages:** C#, ASP.NET, .NET
 - 🌐 **Web Development:** HTML, CSS, JavaScript
-- 🗄️ **Databases:** SQL Server, Entity Framework Core
+- 🗄️ **Databases:** SQL Server, MongoDB, MySQL
 - 🔧 **Tools:** Visual Studio Code, Git
   
 
