@@ -17,7 +17,7 @@ I'm a passionate C# and ASP.NET developer currently working on my diploma projec
   
 
 ## 🌐 Connect with Me
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/TheyCallMeHotAsf#5920)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/442611824169451522)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/georgeishotasf) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20838137)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?&logo=HackerRank&logoColor=white)](https://hackerrank.com/georgezargaryan7)
