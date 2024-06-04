@@ -1,18 +1,27 @@
 # Hi there! 👋 I'm George
+Welcome to my GitHub profile!
 
-I'm a passionate C# and ASP.NET developer currently working on my diploma project. Welcome to my GitHub profile!
+## 💫 About Me:
 
-# 💫 About Me:
-
-- 💻 I'm passionate about software development and enjoy working with C# and ASP.NET.
+- 💻 I'm passionate about software development and enjoy working with C#, ASP.NET and JAVA.
 - 🌟 I believe in the power of technology to solve real-world problems and make our lives better.
 - 📚 I'm constantly learning and exploring new technologies to improve my skills.
+- Currently developing a HIMS(Hospital Information Management System), it's my main project.
+- Learning some front frameworks such as: React, Tailwind CSS and TypeScript.
+<!--
+## 🌟 Project Highlights
+
+- **[Project Name](link-to-project)**: Brief description of the project, the technologies used, and your role.
+- **[Another Project](link-to-project)**: Brief description of the project, the technologies used, and your role. 
+-->
 
 ## 💼 Skills
 
-- 💻 **Languages:** C#, ASP.NET, .NET, PHP
+- 💻 **Languages:** C#, .NET, PHP, JAVA
+-  **Frameworks:** ASP.NET, Spring Boot, 
 - 🌐 **Web Development:** HTML, CSS, JavaScript
-- 🗄️ **Databases:** SQL Server, MongoDB, MySQL
+- 🗄️ **Databases:** SQL Server, MongoDB, MySQL, PostgreSQL
+- **DevOPS:** Docker
 - 🔧 **Tools:** Visual Studio Code, Git
 
 # 💻 Tech Stack
@@ -60,7 +69,6 @@ I'm a passionate C# and ASP.NET developer currently working on my diploma projec
 [![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/en-us/)
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/home) -->
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=GeorgeZargaryan&icon=2&color=0)](https://visitcount.itsvg.in)
